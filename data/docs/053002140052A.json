@@ -1,0 +1,18 @@
+{
+ "ref": "053002140052A",
+ "refDisplay": "0530 02 140052A",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCS",
+   "fctId": "FCT0010"
+  }
+ ]
+}

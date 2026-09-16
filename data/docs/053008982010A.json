@@ -1,0 +1,88 @@
+{
+ "ref": "053008982010A",
+ "refDisplay": "0530 08 982010A",
+ "title": "GARNITURE PAVILLON - POIGNEE MONTOIRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCR",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBF",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCU",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCC",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCL",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKH",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCA",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKA",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FLA",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKD",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKJ",
+   "fctId": "FCT0235"
+  }
+ ]
+}

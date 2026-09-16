@@ -1,0 +1,18 @@
+{
+ "ref": "053006236006A",
+ "refDisplay": "0530 06 236006A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "BVA AT8",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0009"
+  }
+ ]
+}

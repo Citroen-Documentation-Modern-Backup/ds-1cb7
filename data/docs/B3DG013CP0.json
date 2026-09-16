@@ -1,0 +1,20 @@
+{
+ "ref": "B3DG013CP0",
+ "refDisplay": "B3DG013CP0",
+ "title": "Dépose - repose : fusée arrière",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0030"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "053004451231A",
+ "refDisplay": "0530 04 451231A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "FREIN SECONDAIRE ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0040"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "053007748901A",
+ "refDisplay": "0530 07 748901A",
+ "title": "PLANCHER CHARGE PANNEAU PROTECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0116"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "053004451231D",
+ "refDisplay": "0530 04 451231D",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "FREIN SECONDAIRE A MAIN AVEC TEMOIN",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBF",
+   "fctId": "FCT0040"
+  }
+ ]
+}

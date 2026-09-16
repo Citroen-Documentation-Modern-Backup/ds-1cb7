@@ -1,0 +1,33 @@
+{
+ "ref": "053001002265F",
+ "refDisplay": "0530 01 002265F",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": "AVEC STOP AND START DEPUIS OPR 12397 JUSQU’A OPR 13131",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0049"
+  }
+ ]
+}

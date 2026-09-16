@@ -1,0 +1,18 @@
+{
+ "ref": "053001121077A",
+ "refDisplay": "0530 01 121077A",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "BVA 6 RAPPORTS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0005"
+  }
+ ]
+}

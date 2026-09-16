@@ -1,0 +1,443 @@
+{
+ "ldp": "1CB7",
+ "label": "C4 (B7) - DS4",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DA5",
+     "lib": "BERLINE 5PTES"
+    },
+    {
+     "val": "B0DAD",
+     "lib": "BERLINE ENTREPRISE 5 PORTES"
+    },
+    {
+     "val": "B0DD5",
+     "lib": "COUPE 3+2 PORTES"
+    },
+    {
+     "val": "B0DK0",
+     "lib": "SILHOUETTES MIXTES M1-N1"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FCQ",
+     "lib": "1.2 i VTi 110 (EB2DT)"
+    },
+    {
+     "val": "B0FCR",
+     "lib": "1.2 i VTi 130 (EB2DTS)"
+    },
+    {
+     "val": "B0FCB",
+     "lib": "1.4 VTi 16v 95"
+    },
+    {
+     "val": "B0FBM",
+     "lib": "1.6 HDI (DV6C)"
+    },
+    {
+     "val": "B0FBW",
+     "lib": "1.6 HDi 92 (DV6DTED M)"
+    },
+    {
+     "val": "B0FBF",
+     "lib": "1.6 HDi 92 (DV6DTED)"
+    },
+    {
+     "val": "B0FCU",
+     "lib": "1.6 THP 16v 150 (EP6CDT MD)"
+    },
+    {
+     "val": "B0FCC",
+     "lib": "1.6 THP 16v 156"
+    },
+    {
+     "val": "B0FCL",
+     "lib": "1.6 THP 16v 163 (EP6CDT M)"
+    },
+    {
+     "val": "B0FKH",
+     "lib": "1.6 THP 16v 163 (EP6FDT)"
+    },
+    {
+     "val": "B0FCH",
+     "lib": "1.6 THP 16v 200"
+    },
+    {
+     "val": "B0FCS",
+     "lib": "1.6 VTi 120 GPL"
+    },
+    {
+     "val": "B0FCA",
+     "lib": "1.6 VTi 16v 120"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0FBQ",
+     "lib": "2.0 HDi (DW10CTED4 DTR)"
+    },
+    {
+     "val": "B0FBR",
+     "lib": "2.0 HDi 136 (DW10CB FAP DTR)"
+    },
+    {
+     "val": "B0FBB",
+     "lib": "2.0 HDi 163 FAP"
+    },
+    {
+     "val": "B0FAT",
+     "lib": "2.0 i 16v 143"
+    },
+    {
+     "val": "B0FKE",
+     "lib": "DIESEL DV6FD FAP"
+    },
+    {
+     "val": "B0FKA",
+     "lib": "DIESEL DW10FC FAP"
+    },
+    {
+     "val": "B0FLA",
+     "lib": "DIESEL TURBO DV6FC FAP 85KW"
+    },
+    {
+     "val": "B0FKD",
+     "lib": "DIESEL TURBO DV6FC FAP 88KW"
+    },
+    {
+     "val": "B0FKB",
+     "lib": "DW10FD FAP 110KW 1997 DIES"
+    },
+    {
+     "val": "B0FKJ",
+     "lib": "INJECTION EP6FDTX"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DA5&B0F=B0FCQ",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCQ"
+   },
+   "label": "BERLINE 5PTES · 1.2 i VTi 110 (EB2DT)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCR",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCR"
+   },
+   "label": "BERLINE 5PTES · 1.2 i VTi 130 (EB2DTS)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCB",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCB"
+   },
+   "label": "BERLINE 5PTES · 1.4 VTi 16v 95"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBM"
+   },
+   "label": "BERLINE 5PTES · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBW"
+   },
+   "label": "BERLINE 5PTES · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE 5PTES · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCC"
+   },
+   "label": "BERLINE 5PTES · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCS",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCS"
+   },
+   "label": "BERLINE 5PTES · 1.6 VTi 120 GPL"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FCA"
+   },
+   "label": "BERLINE 5PTES · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0F6S"
+   },
+   "label": "BERLINE 5PTES · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FBQ",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FBQ"
+   },
+   "label": "BERLINE 5PTES · 2.0 HDi (DW10CTED4 DTR)"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FAT",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FAT"
+   },
+   "label": "BERLINE 5PTES · 2.0 i 16v 143"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKE",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKE"
+   },
+   "label": "BERLINE 5PTES · DIESEL DV6FD FAP"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FLA",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FLA"
+   },
+   "label": "BERLINE 5PTES · DIESEL TURBO DV6FC FAP 85KW"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKD"
+   },
+   "label": "BERLINE 5PTES · DIESEL TURBO DV6FC FAP 88KW"
+  },
+  {
+   "key": "B0D=B0DA5&B0F=B0FKB",
+   "selections": {
+    "B0D": "B0DA5",
+    "B0F": "B0FKB"
+   },
+   "label": "BERLINE 5PTES · DW10FD FAP 110KW 1997 DIES"
+  },
+  {
+   "key": "B0D=B0DAD&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DAD",
+    "B0F": "B0FBM"
+   },
+   "label": "BERLINE ENTREPRISE 5 PORTES · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DAD&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DAD",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE ENTREPRISE 5 PORTES · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FCR",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FCR"
+   },
+   "label": "COUPE 3+2 PORTES · 1.2 i VTi 130 (EB2DTS)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FBM"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FBF"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FCU",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FCU"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 THP 16v 150 (EP6CDT MD)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FCC"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FCL",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FCL"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 THP 16v 163 (EP6CDT M)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FKH",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FKH"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 THP 16v 163 (EP6FDT)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FCH",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FCH"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 THP 16v 200"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FCA"
+   },
+   "label": "COUPE 3+2 PORTES · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FBR",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FBR"
+   },
+   "label": "COUPE 3+2 PORTES · 2.0 HDi 136 (DW10CB FAP DTR)"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FBB",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FBB"
+   },
+   "label": "COUPE 3+2 PORTES · 2.0 HDi 163 FAP"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FKA",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FKA"
+   },
+   "label": "COUPE 3+2 PORTES · DIESEL DW10FC FAP"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FLA",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FLA"
+   },
+   "label": "COUPE 3+2 PORTES · DIESEL TURBO DV6FC FAP 85KW"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FKD"
+   },
+   "label": "COUPE 3+2 PORTES · DIESEL TURBO DV6FC FAP 88KW"
+  },
+  {
+   "key": "B0D=B0DD5&B0F=B0FKJ",
+   "selections": {
+    "B0D": "B0DD5",
+    "B0F": "B0FKJ"
+   },
+   "label": "COUPE 3+2 PORTES · INJECTION EP6FDTX"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBM"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBF"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FCC",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FCC"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 THP 16v 156"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FCA"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBQ",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBQ"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 2.0 HDi (DW10CTED4 DTR)"
+  }
+ ]
+}

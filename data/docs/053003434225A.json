@@ -1,0 +1,18 @@
+{
+ "ref": "053003434225A",
+ "refDisplay": "0530 03 434225A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0027"
+  }
+ ]
+}

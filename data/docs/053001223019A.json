@@ -1,0 +1,18 @@
+{
+ "ref": "053001223019A",
+ "refDisplay": "0530 01 223019A",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0008"
+  }
+ ]
+}

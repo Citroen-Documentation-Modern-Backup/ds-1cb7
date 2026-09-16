@@ -1,0 +1,18 @@
+{
+ "ref": "053002170017A",
+ "refDisplay": "0530 02 170017A",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCU",
+   "fctId": "FCT0010"
+  }
+ ]
+}

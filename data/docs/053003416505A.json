@@ -1,0 +1,393 @@
+{
+ "ref": "053003416505A",
+ "refDisplay": "0530 03 416505A",
+ "title": "INDICATEUR PERTE PRESSION DE GONFLAGE",
+ "nature": "",
+ "applicability": "PNEU 205/55 R16 V NON RENFORCE ET INDICATEUR PERTE PRESSION GONFLAGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCQ",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCQ",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCR",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCR",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCS",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCS",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBQ",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBQ",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKE",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKE",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FLA",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FLA",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCR",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCR",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBF",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBF",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCU",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCU",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCC",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCC",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCL",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCL",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKH",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKH",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCA",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCA",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKA",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKA",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FLA",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FLA",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKD",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKD",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKJ",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKJ",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FCC",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FCC",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBQ",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBQ",
+   "fctId": "FCT0338"
+  }
+ ]
+}

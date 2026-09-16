@@ -1,0 +1,18 @@
+{
+ "ref": "053001002255B",
+ "refDisplay": "0530 01 002255B",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13132 JUSQU’A OPR 13327",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0049"
+  }
+ ]
+}

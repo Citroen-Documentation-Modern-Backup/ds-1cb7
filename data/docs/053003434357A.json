@@ -1,0 +1,18 @@
+{
+ "ref": "053003434357A",
+ "refDisplay": "0530 03 434357A",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0032"
+  }
+ ]
+}

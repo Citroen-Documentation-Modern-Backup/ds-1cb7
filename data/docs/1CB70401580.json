@@ -1,0 +1,29 @@
+{
+ "ref": "1CB70401580",
+ "refDisplay": "1CB7 0 40 1580",
+ "title": "FAISCEAU TUYAUX AVEC POMPE AMORCAGE",
+ "nature": "",
+ "applicability": "(0009) C4 (B7) DS4 BERLINE 5PTES DIESEL TURBO DW10CTED4 FAP DTR BVM6",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBQ",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0010"
+  }
+ ]
+}

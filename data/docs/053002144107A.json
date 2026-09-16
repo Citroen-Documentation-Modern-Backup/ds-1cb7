@@ -1,0 +1,18 @@
+{
+ "ref": "053002144107A",
+ "refDisplay": "0530 02 144107A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0010"
+  }
+ ]
+}

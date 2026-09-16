@@ -1,0 +1,28 @@
+{
+ "ref": "053001335670B",
+ "refDisplay": "0530 01 335670B",
+ "title": "ACTIONNEUR BOITE DE VITESSES PILOTEE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS ET BVM MCB ET CP 19 X 77",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCC",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FCC",
+   "fctId": "FCT0017"
+  }
+ ]
+}

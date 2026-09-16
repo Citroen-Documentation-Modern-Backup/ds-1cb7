@@ -1,0 +1,18 @@
+{
+ "ref": "053003434018A",
+ "refDisplay": "0530 03 434018A",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCU",
+   "fctId": "FCT0028"
+  }
+ ]
+}

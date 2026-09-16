@@ -1,0 +1,18 @@
+{
+ "ref": "053001334240B",
+ "refDisplay": "0530 01 334240B",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCA ET CP 19 X 77 DEPUIS OPR 13175",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0017"
+  }
+ ]
+}

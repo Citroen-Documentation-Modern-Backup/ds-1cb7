@@ -1,0 +1,18 @@
+{
+ "ref": "053001331029A",
+ "refDisplay": "0530 01 331029A",
+ "title": "CARTER EMBRAYAGE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM6 ET BVM MCB ET CP 19 X 77",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCL",
+   "fctId": "FCT0017"
+  }
+ ]
+}

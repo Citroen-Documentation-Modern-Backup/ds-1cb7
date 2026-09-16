@@ -1,0 +1,193 @@
+{
+ "ref": "053007843501A",
+ "refDisplay": "0530 07 843501A",
+ "title": "VITRE CUSTODE - MOTOREDUCTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCQ",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCQ",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCR",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCR",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBF",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCC",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCS",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCS",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCA",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0F6S",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBQ",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBQ",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FAT",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKE",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKE",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FLA",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FLA",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBF",
+   "fctId": "FCT0329"
+  }
+ ]
+}

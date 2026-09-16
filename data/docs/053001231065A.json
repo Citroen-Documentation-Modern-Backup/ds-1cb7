@@ -1,0 +1,33 @@
+{
+ "ref": "053001231065A",
+ "refDisplay": "0530 01 231065A",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0009"
+  }
+ ]
+}

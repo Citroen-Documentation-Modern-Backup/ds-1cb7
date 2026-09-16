@@ -1,0 +1,18 @@
+{
+ "ref": "053004451238A",
+ "refDisplay": "0530 04 451238A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": " SAUF MONTE PNEU 19 POUCES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0040"
+  }
+ ]
+}

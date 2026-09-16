@@ -1,0 +1,33 @@
+{
+ "ref": "053003416531A",
+ "refDisplay": "0530 03 416531A",
+ "title": "INDICATEUR PERTE PRESSION DE GONFLAGE",
+ "nature": "",
+ "applicability": "PNEU 215/55 R17 V NON RENFORCE ET INDICATEUR PERTE PRESSION GONFLAGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0338"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0338"
+  }
+ ]
+}

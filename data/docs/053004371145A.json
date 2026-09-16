@@ -1,0 +1,18 @@
+{
+ "ref": "053004371145A",
+ "refDisplay": "0530 04 371145A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVA AM6 NORME EURO5 ET PIVOT ROUE DIAMETRE 83 DEPUIS OPR 13146",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "053001222055A",
+ "refDisplay": "0530 01 222055A",
+ "title": "POMPE A HUILE - CHAINE - CREPINE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 12746",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBW",
+   "fctId": "FCT0008"
+  }
+ ]
+}

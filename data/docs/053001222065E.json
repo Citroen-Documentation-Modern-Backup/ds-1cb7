@@ -1,0 +1,33 @@
+{
+ "ref": "053001222065E",
+ "refDisplay": "0530 01 222065E",
+ "title": "POMPE A HUILE - CHAINE - CREPINE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS STT DEPUIS OPR 12593 OU BVM 6 RAPPORTS TYPE STT OU BVM6 DEPUIS OPR 12629",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBM",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DAD&B0F=B0FBM",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBM",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0008"
+  }
+ ]
+}

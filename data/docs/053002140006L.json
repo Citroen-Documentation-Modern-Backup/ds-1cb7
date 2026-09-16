@@ -1,0 +1,18 @@
+{
+ "ref": "053002140006L",
+ "refDisplay": "0530 02 140006L",
+ "title": "COLLECTEUR REPARTITEUR ADMISSION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCS",
+   "fctId": "FCT0010"
+  }
+ ]
+}

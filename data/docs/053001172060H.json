@@ -1,0 +1,18 @@
+{
+ "ref": "053001172060H",
+ "refDisplay": "0530 01 172060H",
+ "title": "SURALIMENTATION RACCORD D’AIR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13034",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCL",
+   "fctId": "FCT0014"
+  }
+ ]
+}

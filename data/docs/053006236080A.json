@@ -1,0 +1,18 @@
+{
+ "ref": "053006236080A",
+ "refDisplay": "0530 06 236080A",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": "BVM BE4R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FCB",
+   "fctId": "FCT0009"
+  }
+ ]
+}

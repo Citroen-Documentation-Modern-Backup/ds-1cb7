@@ -1,0 +1,28 @@
+{
+ "ref": "053001330525C",
+ "refDisplay": "0530 01 330525C",
+ "title": "NECESSAIRE REPAR POCHETTES JOINTS BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM 6 RAPPORTS TYPE STT JUSQU’A OPR 13874 OU BVM MC ET BVM6 JUSQU’A OPR 13874",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKD",
+   "fctId": "FCT0017"
+  }
+ ]
+}

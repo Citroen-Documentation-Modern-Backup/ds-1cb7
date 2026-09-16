@@ -1,0 +1,25 @@
+{
+ "ref": "B1EG012NP0",
+ "refDisplay": "B1EG012NP0",
+ "title": "Dépose - repose : électrovannes  de distribution variable",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FCH",
+   "fctId": "FCT0007"
+  }
+ ]
+}

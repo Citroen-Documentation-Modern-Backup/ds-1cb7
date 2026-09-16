@@ -1,0 +1,18 @@
+{
+ "ref": "053001002292A",
+ "refDisplay": "0530 01 002292A",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBR",
+   "fctId": "FCT0049"
+  }
+ ]
+}

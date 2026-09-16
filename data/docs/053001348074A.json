@@ -1,0 +1,23 @@
+{
+ "ref": "053001348074A",
+ "refDisplay": "0530 01 348074A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FBQ",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DK0&B0F=B0FBQ",
+   "fctId": "FCT0049"
+  }
+ ]
+}

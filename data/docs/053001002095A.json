@@ -1,0 +1,18 @@
+{
+ "ref": "053001002095A",
+ "refDisplay": "0530 01 002095A",
+ "title": "ENSEMBLE MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FBB",
+   "fctId": "FCT0049"
+  }
+ ]
+}

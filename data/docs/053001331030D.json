@@ -1,0 +1,23 @@
+{
+ "ref": "053001331030D",
+ "refDisplay": "0530 01 331030D",
+ "title": "CARTER EMBRAYAGE BVM",
+ "nature": "",
+ "applicability": "BVM MC ET BVM 6 RAPPORTS TYPE STT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DA5&B0F=B0FKD",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CB7",
+   "variantKey": "B0D=B0DD5&B0F=B0FKD",
+   "fctId": "FCT0017"
+  }
+ ]
+}
