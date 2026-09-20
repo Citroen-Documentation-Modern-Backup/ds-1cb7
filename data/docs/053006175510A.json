@@ -1,18 +1,1 @@
-{
- "ref": "053006175510A",
- "refDisplay": "0530 06 175510A",
- "title": "DEPOLLUTION CANISTER ABSORBEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CB7",
-   "variantKey": "B0D=B0DA5&B0F=B0FCS",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"053006175510A","refDisplay":"0530 06 175510A","title":"DEPOLLUTION CANISTER ABSORBEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CB7","variantKey":"B0D=B0DA5&B0F=B0FCS","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CB7)(B0FCS)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000001"},[]],["mpr",{"catal":"0530","grp":"53","grp2":"06","maj":"20110528","numfich":"175510A"},[["appl",{},["{(?1CB7)(B0FCS)}"]],["sti",{"ident":"5301"},[]],["img",{"numfich":"00087394","path":"/img/pr/94/0008/00087394.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000001","ref":"00001502L2","refpg":"1502 L2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CB7)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"261, 496, 11","shape":"circle"},[]]]]]]]]]]}
